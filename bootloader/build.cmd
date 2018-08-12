@@ -1,0 +1,3 @@
+@echo off
+echo Compiling Bottloader...
+nasm ./bootloader.asm -o "./build/bootsector.bin"
