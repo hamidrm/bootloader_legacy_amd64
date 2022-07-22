@@ -1,3 +1,0 @@
-;; Advenced Power Management
-
-
